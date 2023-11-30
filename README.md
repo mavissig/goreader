@@ -12,9 +12,8 @@ Author : [Egor Kondratov(mavissig)](https://github.com/mavissig)
 1. [Introduction](#introduction)
 2. [Information](#information)
 3. [About the program](#about-the-program) \
-   3.1. [3DViewer](#3dviewer) \
-   3.2. [Settings](#settings) \
-   3.3. [Record](#record)
+   3.1. [GoReader](#goreader-1) \
+   3.2. [Settings](#settings)
 
 
 ## Preamble
